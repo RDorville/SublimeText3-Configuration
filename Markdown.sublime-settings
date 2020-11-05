@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/RDPredawn Monokai.tmTheme",
+	"extensions":
+	[
+		"md"
+	],
+	"line_numbers": true,
+	"save_on_focus_lost": false,
+	"trim_trailing_spaces": false
+}

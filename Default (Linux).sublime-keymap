@@ -1,0 +1,19 @@
+[
+	// for MarkdownPreview
+	{ "keys": ["alt+m"],
+			"command": "markdown_preview",
+			"args": {"target": "browser", "parser":"markdown" } },
+	// to keep the Build command intact
+	{ "keys": ["ctrl+b"], "command": "build" },
+	// Personal settings
+    // Close all windows
+    { "keys": ["super+ctrl+alt+w"], "command": "close_all" },
+    // testing
+    // template {"keys": ["keyboard-combo"], "command": "name-of-command"}
+    // title case
+    {"keys": ["ctrl+shift+c"], "command": "title_case"},
+    // md generate link from copied url
+    {"keys": ["ctrl+alt+l"],
+    	"command": "run_macro_file", "args": {"file": "Packages/User/md-link.sublime-macro"}
+    }
+]

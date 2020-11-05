@@ -1,0 +1,7 @@
+// Settings in here override those in "TrailingSpaces/trailing_spaces.sublime-settings"
+
+{
+	// turn on highlighting
+	"enabled" : true,
+	"highlight_color" : "region.bluish"
+}

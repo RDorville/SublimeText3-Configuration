@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"Color Highlight",
+		"ColorPicker",
+		"ColorSchemeEditor",
+		"FavoriteFiles",
+		"InsertDate",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn Monokai",
+		"SideBarEnhancements",
+		"TrailingSpaces"
+	]
+}
