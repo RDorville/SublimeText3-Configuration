@@ -7,3 +7,5 @@ Say you want to use your config on an other computer, here’s what you have to 
     - install Package Control
     - restart Sublime Text
 
+&nbsp;
+Oct 2020
