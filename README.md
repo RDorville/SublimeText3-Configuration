@@ -7,5 +7,10 @@ Say you want to use your config on an other computer, here’s what you have to 
     - install Package Control
     - restart Sublime Text
 
+Hints:
+
+1. Check your git configuration: ```git config --list```
+2. After pushing to git (and being asked for your login/password, save the credentials so that you don't need to re-enter: ```git config --global credential.helper cache```)
+
 &nbsp;
 Oct 2020
